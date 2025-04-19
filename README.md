@@ -43,7 +43,7 @@ The dataset used for this project is publicly available on Kaggle: [Suicidal Twe
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Aunanya875/Suicide-Ideation-Detection.git
+   git clone https://github.com/syeda434am/Suicide-Ideation-Detection.git
    ```
 2. Navigate to the project directory:
    ```bash
